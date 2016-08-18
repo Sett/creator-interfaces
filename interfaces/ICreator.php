@@ -11,6 +11,7 @@ interface ICreator
     const TABLE_NAME = 'funcraft__creator';
 
     const FIELD_ID = 'id';
+    const FIELD_NAME = 'name';
 
     /**
      * @return int
